@@ -1,2 +1,2 @@
 @ECHO on
-PowerShell.exe "C:\temp\bloqueio\Scriptbloqueioteste.ps1" 
+PowerShell.exe "caminhodasuamaquina\Scriptbloqueioteste.ps1" 
