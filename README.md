@@ -7,7 +7,7 @@
 		   2.no script "script1exec" cadastre as senhas que deseja criptografar, as hashs ficam armazenadas no arquivo "cripto1.txt" e "cripto2.txt"
 		   3.execute apos isso o "1exec.bat" como admin para gerar a chave criptografada e baixar os modulos
 		   4.no script "scriptbloqueio" e "scriptdesbloqueio" é necessario passar o login nas variaveis $username e $usernamead
-		   5.cadastre os logins para bloqueio dentro do arquivo "colaboradores-bloqueio.csv" e "colaboradores-desbloqueio.csv"" com os                                      seguintes parametros:	
+	5.cadastre os logins para bloqueio dentro do arquivo "colaboradores-bloqueio.csv" e "colaboradores-desbloqueio.csv"" com os seguintes parametros:	
 				##use separador "," primeiro o email do 365 , data mes e ano abreviados e login do ad##
 				## data no formato dd/mm/aa ##
 				## usuario no ad com o formato adotado, exemplo: nome.sobrenome
