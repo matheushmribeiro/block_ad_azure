@@ -1,5 +1,6 @@
 ####################Script Automatizado de bloqueio e desbloqueio de usuarios#####################
 				Script para automatizar o bloqueio e desbloqueio de usuarios no azure ad e AD DS, por meio dele vc pode cadastrar uma lista de logins para que seja feita o blqoueio ou desbloqueio na data cadastrada, criptografa sua autenticação para a conexão. Vc pode criar uma tarefa no agendador de tarefas para rodar em um horario predefinido
+##Importante: O usuario do azure ad não pode ter o mfa habilitado, o usuario do ad deve ter as permissões necessarias para realizar o bloqueio e desbloqueio##
         Feito no Powershell
         Siga os passos abaixo:
         
