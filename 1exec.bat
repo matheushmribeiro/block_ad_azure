@@ -1,4 +1,4 @@
 @ECHO on
-PowerShell.exe "C:\temp\bloqueio\script1execucao.ps1" 
+PowerShell.exe "caminhodasuamaquina\Script1exec.ps1" 
 
 PAUSE 
